@@ -8,3 +8,5 @@ linux
 Windows 
 > mvnw test
 
+# Notes
+Example Cucumber feature file provided with structure of basic input validation tests.
